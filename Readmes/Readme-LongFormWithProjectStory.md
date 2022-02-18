@@ -7,6 +7,7 @@ Description and Badges
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
+    - [Running Tests](#running-tests)
 - [Links](#links)
 - [Overview](#overview)
     - [System Design](#system-design)
@@ -41,11 +42,14 @@ These instructions will run a copy of the project on your local machine for deve
 
 #### Deployment
 
+### Running Tests
+
 ## Links
 
 ****
 
 ## Overview
+
 ## System Design
 
 ## Core Behaviour
@@ -60,13 +64,14 @@ These instructions will run a copy of the project on your local machine for deve
 
 ### Implementation Notes
 
- ### Project Plan
+### Project Plan
 
 ### Execution and Lessons Learned
 
 ## Known Bugs
 
 ## Challenges
+
 ## Wins
 
 ## Future Features
