@@ -33,14 +33,42 @@ Description and Badges
 Overview usage
 
 ## Technologies
-|- HTML<br>- CSS<br>- JavaScript|- StackOverflow<br><br>- Coffee|
+|tech1<br>tech2|tech3<br>tech4|
 |---|---|
+
 ## Getting Started
 These instructions will run a copy of the project on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 #### Running Locally
+Set env variables:
+Duplicate env.example and env.private.example:
+```console
+:<repo-root>$ cp env.example env && cp env.private.example env.private
+```
+Set any blank variables.
+
+
+No environment variables are necessary.
+
+Install dependencies with npm:
+```console
+:<repo-root>$ npm i
+```
+Run with:
+```console
+:<repo-root>$ npm run dev
+```
 
 #### Deployment
+build to `/build/` :
+```console
+:<repo-root>$ npm run build
+```
+To deploy with netlify:
+```console
+:<repo-root>$ netlify deploy --dir=build
+```
+Set ENV vars.
 
 ### Running Tests
 
