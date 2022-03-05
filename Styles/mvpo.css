@@ -1,5 +1,5 @@
 /* MVP.css v1.8 - https://github.com/andybrewer/mvp */
-/* Extended for depth */
+/* Extended for depth and orange theme*/
 
 :root {
     --active-brightness: 0.85;
@@ -40,7 +40,7 @@
     :root {
         --color: #D88C10;
         --color-accent: #D88C104f;
-        --color-bg: #333;
+        --color-bg: #121212;
         --color-bg-secondary: #222;
         --color-link: #D88C10;
         --color-secondary: #f9b112;
