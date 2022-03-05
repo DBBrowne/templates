@@ -7,7 +7,7 @@
 #### `/Styles/`
 Style sheets are extensions of MVP.css v1.8 - https://github.com/andybrewer/mvp .
 
-Each have depth/elevation, automated to some degree and settable via classes from `elevation-0` to `elevation-3`.
+Each have depth/elevation, automated to some degree and settable via classes from `elevation-0` to `elevation-3`.  Adapted from [material.ui](https://material.io/design/color/dark-theme.html#properties).
 Dark modes are softened.
 
 See demos in `/styles/*.html`.
