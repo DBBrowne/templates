@@ -6,7 +6,7 @@
 - [Demos](#demos)
 - [Usage](#usage)
 - [Running Tests](#running-tests)
-- [Known Isues](#known-issues)
+- [Known Issues](#known-issues)
 
 ### Demos
 
